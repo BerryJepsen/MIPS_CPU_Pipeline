@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/impl/timing/xsim/test_cpu_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module ALU_Control
+INFO: [VRFC 10-311] analyzing module CPU_Pipeline
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-311] analyzing module EX
+INFO: [VRFC 10-311] analyzing module EX_MEM
+INFO: [VRFC 10-311] analyzing module Forward
+INFO: [VRFC 10-311] analyzing module Hazard
+INFO: [VRFC 10-311] analyzing module ID
+INFO: [VRFC 10-311] analyzing module ID_EX
+INFO: [VRFC 10-311] analyzing module IF
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-311] analyzing module MEM
+INFO: [VRFC 10-311] analyzing module MEM_WB
+INFO: [VRFC 10-311] analyzing module PC_Controller
+INFO: [VRFC 10-311] analyzing module Peripheral
+INFO: [VRFC 10-311] analyzing module Register_File
+INFO: [VRFC 10-311] analyzing module WB
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sim_1/imports/code/test_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_cpu

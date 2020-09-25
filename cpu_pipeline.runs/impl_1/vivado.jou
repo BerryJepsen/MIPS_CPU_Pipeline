@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Sep 19 01:10:41 2020
+# Process ID: 20856
+# Current directory: H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.runs/impl_1
+# Command line: vivado.exe -log CPU_Pipeline.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CPU_Pipeline.tcl -notrace
+# Log file: H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.runs/impl_1/CPU_Pipeline.vdi
+# Journal file: H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source CPU_Pipeline.tcl -notrace

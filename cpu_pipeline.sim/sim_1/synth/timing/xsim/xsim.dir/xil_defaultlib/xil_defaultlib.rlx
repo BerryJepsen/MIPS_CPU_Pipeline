@@ -1,0 +1,6 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/synth/timing/xsim/test_cpu_time_synth.v,1600435351,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sim_1/imports/code/test_cpu.v,,ALU;CPU_Pipeline;Data_Memory;EX;EX_MEM;Hazard;ID;ID_EX;IF;IF_ID;MEM;MEM_WB;PC_Controller;Peripheral;Register_File;glbl,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sim_1/imports/code/test_cpu.v,1600262352,verilog,,,,test_cpu,,,,,,,,

@@ -1,0 +1,26 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sim_1/imports/code/test_cpu.v,1599997523,verilog,,,,test_cpu,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/ALU.v,1599994714,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/ALU_Control.v,,ALU,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/ALU_Control.v,1599788160,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/CPU_Pipeline.v,,ALU_Control,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/CPU_Pipeline.v,1600355494,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Control.v,,CPU_Pipeline,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Control.v,1600327468,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Data_Memory.v,,Control,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Data_Memory.v,1600327679,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/EX.v,,Data_Memory,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/EX.v,1599913589,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/EX_MEM.v,,EX,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/EX_MEM.v,1600263793,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Forward.v,,EX_MEM,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Forward.v,1599995398,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Hazard.v,,Forward,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Hazard.v,1599995434,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/ID.v,,Hazard,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/ID.v,1600332628,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/ID_EX.v,,ID,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/ID_EX.v,1600330011,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/IF.v,,ID_EX,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/IF.v,1600263537,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/IF_ID.v,,IF,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/IF_ID.v,1600273350,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Instruction_Memory.v,,IF_ID,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Instruction_Memory.v,1600329433,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/MEM.v,,Instruction_Memory,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/MEM.v,1600262248,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/MEM_WB.v,,MEM,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/MEM_WB.v,1599917865,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/PC_Controller.v,,MEM_WB,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/PC_Controller.v,1600304243,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Peripheral.v,,PC_Controller,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Peripheral.v,1599997487,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Register_File.v,,Peripheral,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/Register_File.v,1599791965,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/WB.v,,Register_File,,,,,,,,
+H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sources_1/imports/code/WB.v,1599963297,verilog,,H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.srcs/sim_1/imports/code/test_cpu.v,,WB,,,,,,,,

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Sep 18 22:31:19 2020
+# Process ID: 4220
+# Current directory: H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv.exe -mode batch -source H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/impl/timing/xsim/xsim.dir/test_cpu_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/impl/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source H:/SoftWare/Vivado/Project/cpu_pipeline/cpu_pipeline.sim/sim_1/impl/timing/xsim/xsim.dir/test_cpu_time_impl/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:11 . Memory (MB): peak = 79.578 ; gain = 11.281
+INFO: [Common 17-206] Exiting Webtalk at Fri Sep 18 22:31:29 2020...
